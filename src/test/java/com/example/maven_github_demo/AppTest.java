@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 class AppTest {
 @Test
 void testTotal() {
-assertEquals(22500,
+assertEquals(225,
 App.calculateTotal(75, 68, 82));
 }
 @Test
